@@ -8,7 +8,8 @@
   - Python (pandas, matplotlib, etc)
   - SQL
   - DAX
-  - M/PowerQuery.
+  - M/PowerQuery
+  - R and RStudio
 - 📫 How to reach me 
   - Email: jmcclure@colostate.edu
 
