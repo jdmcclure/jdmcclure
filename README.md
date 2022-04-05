@@ -5,9 +5,10 @@
   - Data Visualization
   - Problem Solving
 - 🌱 I’m currently learning 
-  - Python (pandas, matplotlib, etc)
+  - Python (pandas, numpy, matplotlib, plotly, seaborn)
   - SQL
-  - DAX
+  - DAX (for Power BI)
+  - Tableau
   - M/PowerQuery
   - R and RStudio
 - 📫 How to reach me 
