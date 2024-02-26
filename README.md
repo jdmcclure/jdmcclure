@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @jdmcclure
-- 👀 I’m interested in
+My name is Josh McClure
+- I’m interested in
   - Statistics
   - Data Analysis
   - Data Visualization
   - Problem Solving
-- 🌱 I’m currently learning 
+- I’m currently learning 
   - Python for data exploration, transformation, visualization, and automation.
   - SQL
   - DAX (for Power BI)
   - M/PowerQuery
   - R and RStudio
-- 📫 How to reach me 
+- How to reach me 
   - Email: jmcclure@colostate.edu
 
 <!---
